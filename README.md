@@ -1,5 +1,5 @@
 index.html
-<!--The doctype tag is used to specify the version of HTML being used-->
+[Uploading i<!--The doctype tag is used to specify the version of HTML being used-->
 <!DOCTYPE html>
 <!-- The html tag is the root element of an HTML page -->
 <html lang="en">
@@ -42,10 +42,10 @@ index.html
         University of Advanced Technology<br>
     </footer>
 </body>
-</html>
+</html>ndex.html…]()
 
 style.css
-body {
+[Uploading style.css…]()body {
     background-color: lemonchiffon;
     background-image: url('background.jpg');
     background-repeat: no-repeat;
