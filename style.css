@@ -3,6 +3,7 @@ body {
     background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    text-align: center;
 }
 
 h1 {
@@ -26,7 +27,7 @@ nav a:hover {
 }
 
 img {
-    width: 100%;
+    width: 70%;
     height: auto;
     border: 2px solid #40516b;
     border-radius: 15px;
